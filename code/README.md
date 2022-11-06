@@ -8,10 +8,10 @@
 
 # TABLE OF CONTENT
 
-1. [Configuration]()
+1. [**Configuration**]()
 
-2. [Extensions]()
+2. [**Extensions**](https://github.com/kpidiba/IDE/tree/master/code/extensions)
 
-3. [Snippets]()
+3. [**Snippets**]()
 
 4. [**Shortcut**]()
