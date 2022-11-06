@@ -6,10 +6,10 @@ An integrated development environment (IDE) is **a software application that he
 
 # HISTORY
 
- Dartmouth was the first language to be created with an IDE (and was also the first to be designed for use while sitting in front of a console or terminal)
+**Dartmouth BASIC** was the first language to be created with an IDE (and was also the first to be designed for use while sitting in front of a console or terminal)
 
 # TABLE OF CONTENT
 
-- [**Visual Studio Code**]()
+- [**Visual Studio Code**](https://github.com/kpidiba/IDE/tree/master/code)
 
-- [**Netbeans**]()
+- [**Netbeans**](https://github.com/kpidiba/IDE/tree/master/netbeans)
