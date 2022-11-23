@@ -32,6 +32,8 @@ VS Code extensions **let you add languages, debuggers, and tools to your instal
 
 - **Laravel Artisan** : extension makes running `artisan` commands a breeze when using Laravel. To use it, you just need to trigger the VSCode command palette by pressing `Ctrl+Shift+P` and then typing `Artisan` and the artisan commands will show up to be executed.
 
+- **Laravel blade snippets**
+
 - **Laravel Extra Intellisense** :  provides auto-completion for Laravel in VSCode. Besides, this extension runs your Laravel application automatically and periodically to get the information needed to provide autocomplete(Views and variables, Route Middlewares, Configs, Route names and route parameters, Laravel mix function,Translations and translation parameters, Validation rules, Env, View sections and stacks).
 
 - **Laravel goto view** : allows you to go from your Controller or Route to your view. You can use  `Ctrl`  or `Alt` + click to jump to the first matched Blade View file. It works similarly to the Laravel goto Controller extension.
