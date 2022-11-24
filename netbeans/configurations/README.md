@@ -1,4 +1,4 @@
-# CONFIGURATION
+# CONFIGURATIONS
 
 it is about modification of the idea which improve productivity or make it more comfortable
 
@@ -10,5 +10,6 @@ Fira Code is a free monospaced font containing ligatures for common programming 
 
 - follow the instructions and install the fonts
 
-- follow the instructions and add it to vs code
-1. 
+- Tools -> Options -> Fonts & Colors -> Syntax - Default - Font: - add Fira Code
+
+
