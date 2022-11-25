@@ -8,10 +8,10 @@
 
 # TABLE OF CONTENT
 
-1. [**Configuration**]([IDE/code/configuration at master · kpidiba/IDE (github.com)](https://github.com/kpidiba/IDE/tree/master/code/configuration))
+1. [**Configuration**](https://github.com/kpidiba/IDE/tree/master/code/configuration)
 
 2. [**Extensions**](https://github.com/kpidiba/IDE/tree/master/code/extensions)
 
 3. [**Snippets**]()
 
-4. [**Shortcut**]()
+4. [**Shortcut**](https://github.com/kpidiba/IDE/tree/master/code/shortcut)

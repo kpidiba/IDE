@@ -57,3 +57,12 @@ VS Code extensions **let you add languages, debuggers, and tools to your instal
 - **Vue Language Features**
 
 - **Vue VSCode Snippets** (see vs code description for more details).
+
+- **GITLENS**
+
+- **TODO TREE** : configure vs code settings.json
+
+    Example: //TODO: write function move,// BUG: here, //FIXME:, //NOTE:,[x]\(sucess\)
+
+- **Polacode** : screenshot select code
+- **Settings Sync** :Sign in github
