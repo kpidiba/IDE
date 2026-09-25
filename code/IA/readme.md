@@ -6,11 +6,12 @@ A practical guide to the most popular AI-powered coding tools you can use inside
 
 Modern development in VS Code is supercharged by AI. Here’s a quick comparison of three leading options:
 
-| Tool               | Type                                                 | Pricing                                                | Best For                                                 | Key Strength                     | Bring Your Own Key (BYOK)    |
-| ------------------ | ---------------------------------------------------- | ------------------------------------------------------ | -------------------------------------------------------- | -------------------------------- | ---------------------------- |
-| **GitHub Copilot** | Official Microsoft extension                         | $10/mo (Individual)<br>$19–39/mo (Business/Enterprise) | Everyday coding, inline suggestions, enterprise teams    | Seamless **autocomplete** & chat | Limited (uses GitHub models) |
-| **Windsurf**       | AI-native IDE + VS Code extension (formerly Codeium) | Free tier + ~$15/mo Pro                                | Fast prototyping, agentic workflows, flow state          | **Cascade** agent & low latency  | Partial                      |
-| **Roo Code**       | Open-source VS Code extension                        | **Completely Free** (pay only for your LLM API usage)  | Custom workflows, full control, multi-file agentic tasks | **Custom Modes** & orchestration | Full BYOK support            |
+| Tool               | Type                                                 | Pricing                                                          | Best For                                                            | Key Strength                     | Bring Your Own Key (BYOK)    |
+| ------------------ | ---------------------------------------------------- | ---------------------------------------------------------------- | ------------------------------------------------------------------- | -------------------------------- | ---------------------------- |
+| **GitHub Copilot** | Official Microsoft extension                         | $10/mo (Individual)<br>$19–39/mo (Business/Enterprise)           | Everyday coding, inline suggestions, enterprise teams               | Seamless **autocomplete** & chat | Limited (uses GitHub models) |
+| **Windsurf**       | AI-native IDE + VS Code extension (formerly Codeium) | Free tier + ~$15/mo Pro                                          | Fast prototyping, agentic workflows, flow state                     | **Cascade** agent & low latency  | Partial                      |
+| **Roo Code**       | Open-source VS Code extension                        | **Completely Free** (pay only for your LLM API usage)            | Custom workflows, full control, multi-file agentic tasks            | **Custom Modes** & orchestration | Full BYOK support            |
+| **Continue**       | Open-source AI coding assistant                      | Free / BYOK (pay only for your chosen model/API when applicable) | Chat, autocomplete, codebase context, agentic coding, custom models | Custom Agents / Rules / Models   |                              |
 
 ### 1. GitHub Copilot — The Classic Inline Assistant
 
