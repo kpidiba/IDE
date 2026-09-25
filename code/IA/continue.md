@@ -22,7 +22,7 @@ The goal is to build a flexible AI coding environment without being locked into 
 
 ### Ressources
 
-- 
+- [Ollama + Continue + VS Code: Coder avec des modèles locaux - YouTube](https://www.youtube.com/watch?v=BW7veVBWpZw&t=90s) 
 
 ---
 
